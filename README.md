@@ -45,3 +45,5 @@ The ft_printf project is evaluated through peer review, with a focus on several 
 - **Code quality:** Is the code well-organized, readable, and maintainable?
 - **Edge case handling:** Does the code handle all required edge cases and invalid inputs gracefully?
 - **Performance:** Is the implementation efficient and performant?
+
+/home/milan/Downloads/Screenshot 2024-07-13 at 21-08-55 Intra Projects ft_printf.png
